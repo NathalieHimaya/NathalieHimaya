@@ -2,8 +2,8 @@
 <h3 align="center">I am a computer science student at MVC!</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/5e669759dd6b0233a6a00cb56cf18f966366c6bc1262619f6ffd2a71f3f4e525/68747470733a2f2f692e696d6775722e636f6d2f496b644c4976752e676966"
 
-🌱 I’m currently learning **HTML, CSS, Java, & React**
-📫 How to reach me **natramoshi@gmail.com**
+- 🌱 I’m currently learning **HTML, CSS, Java, & React**
+- 📫 How to reach me **natramoshi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
