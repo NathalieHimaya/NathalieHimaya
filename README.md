@@ -2,7 +2,7 @@
  <img src="https://raw.githubusercontent.com/NathalieHimaya/NathalieHimaya/main/Connor%20Hamilton.png" />
 </h1>
 <h1 align="center">🌸 Hello, I'm Nathalie Himaya</h1>
-<h3 align="center">I'm a NASA NCAS Alumni and CS student at MVC. I love to create and build things that will help me grow! Check it out!</h3>
+<h3 align="center"> I create and build things that will help me grow! Check it out!</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://cdna.artstation.com/p/assets/images/images/038/243/184/original/julie-lafille-gif-outro.gif"
 
  ☁️ I’m currently working on **Web Design to develop my own portfolio**
