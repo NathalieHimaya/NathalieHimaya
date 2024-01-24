@@ -1,12 +1,15 @@
 <h1 align="center">👋 Hello, I'm Nathalie Himaya</h1>
+<h1 align="center">
+ <img src="https://raw.githubusercontent.com/NathalieHimaya/NathalieHimaya/main/Connor%20Hamilton.png" />
+</h1>
 <h3 align="center">I'm a NASA NCAS Alumni and CS student at MVC. I love to create and build things that will help me grow! Check it out!</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif"
 
- 🖥️ I’m currently working on **Web Design**
+ 🖥️ I’m currently working on **Web Design to develop my own portfolio**
 
   🌱 I’m currently learning **Java and Front End Languages**
 
-  🌎 Fun fact **I visited NASA in Spring 2023 to attend their SUITS Challenge**
+  🌎 Fun fact **I enjoy building keyboards!**
 
   🌐 Socials:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalie-himaya-252979251/) 
