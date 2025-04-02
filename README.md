@@ -2,9 +2,9 @@
  <img src="https://github.com/NathalieHimaya/NathalieHimaya/blob/main/Hannah%20Morales%20(1).png" />
 </h1>
 <h1 align="center"> ˚₊· ͟͟͞͞➳❥ Nathalie's Coding Corner ˚₊· ͟͟͞͞➳❥ </h1>
-<h3 align="center"> ⋘ 𝑙𝑜𝑎𝑑𝑖𝑛𝑔 𝑑𝑎𝑡𝑎... ⋙ ᴄᴏᴍᴘʟᴇᴛᴇ! </h3
+<h3 align="center"> ⋘ 𝑙𝑜𝑎𝑑𝑖𝑛𝑔 𝑑𝑎𝑡𝑎... ⋙ ᴄᴏᴍᴘʟᴇᴛᴇ! </h3>
 
-<p style = "text-align: center;" >
+<p align= "center" >
  ☁️ I’m currently working on **Web Design to develop my own portfolio**
 
  🌷͙֒ I’m currently learning **Java and Front End Languages**
