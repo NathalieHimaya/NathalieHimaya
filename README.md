@@ -5,7 +5,7 @@
 <h1 align="center"> ˚₊· ͟͟͞͞➳❥ Nat's Coding Corner ˚₊· ͟͟͞͞➳❥ </h1>
 <h2 align="center"> ⋘ 𝑙𝑜𝑎𝑑𝑖𝑛𝑔 𝑑𝑎𝑡𝑎... ⋙ ᴄᴏᴍᴘʟᴇᴛᴇ! </h2>
 
-<p align="center"> <i> Dev Notes: About Me! </i> </p>
+<p align="center"> <i> Dev Notes: About Me! 🍵 </i> </p>
 <p align="center">
     • Interests: Robotics, Machine Learning, Engineering, Software Development </br>
     • School: Upcoming University Student studying Computer Engineering <br/>
