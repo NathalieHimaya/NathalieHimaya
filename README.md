@@ -11,7 +11,6 @@
  * I’m currently learning **Java and Front End Languages**
 
  * Fun fact **I enjoy building keyboards!**
-
 </p>
 
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=NathalieHimaya&theme=gotham&hide_border=false)
