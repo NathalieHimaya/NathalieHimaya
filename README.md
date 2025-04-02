@@ -4,7 +4,7 @@
 <h1 align="center"> ˚₊· ͟͟͞͞➳❥ Nathalie's Coding Corner ˚₊· ͟͟͞͞➳❥ </h1>
 <h3 align="center"> ⋘ 𝑙𝑜𝑎𝑑𝑖𝑛𝑔 𝑑𝑎𝑡𝑎... ⋙ ᴄᴏᴍᴘʟᴇᴛᴇ! </h3
 
-<p align = "center" >
+<p style = "text-align: center;" >
  ☁️ I’m currently working on **Web Design to develop my own portfolio**
 
  🌷͙֒ I’m currently learning **Java and Front End Languages**
