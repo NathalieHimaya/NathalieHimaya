@@ -5,11 +5,12 @@
 <h3 align="center"> ⋘ 𝑙𝑜𝑎𝑑𝑖𝑛𝑔 𝑑𝑎𝑡𝑎... ⋙ ᴄᴏᴍᴘʟᴇᴛᴇ! </h3>
 
 <p align= "center" >
- ☁️ I’m currently working on **Web Design to develop my own portfolio**
 
- 🌷͙֒ I’m currently learning **Java and Front End Languages**
+ * I’m currently working on **Web Design to develop my own portfolio**
 
- 💭 Fun fact **I enjoy building keyboards!**
+ * I’m currently learning **Java and Front End Languages**
+
+ * Fun fact **I enjoy building keyboards!**
 
  🌐 LinkedIn - https://www.linkedin.com/in/nathalie-himaya-252979251/
 </p>
