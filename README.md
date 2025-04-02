@@ -8,12 +8,12 @@
 <div>
    <p align="center">
     <h2 align="center"> <i> Dev Notes: About Me! </i> </h2>
-    - School: Upcoming University Student studying Computer Engineering <br/>
-    - Hobbies: Building keyboards, dancing & trying every skill possible <br/>
-    - Interests: Robotics, Machine Learning, Engineering, Software Development </br>
-    - Project Status: Currently, learning HTML as a hobby to create cute things! <br/>
-    - Experience: C++, Python, Java </br>
-    - Looking for: Collaboration Projects + New people to connect with! </br>
+    • Interests: Robotics, Machine Learning, Engineering, Software Development </br>
+    • School: Upcoming University Student studying Computer Engineering <br/>
+    • Hobbies: Building keyboards, dancing & trying every skill possible <br/>
+    • Project Status: Currently, learning HTML as a hobby to create cute things! <br/>
+    • Experience: C++, Python, Java </br>
+    • Looking for: Collaboration Projects + New people to connect with! </br>
    </p>
 </div>
 
