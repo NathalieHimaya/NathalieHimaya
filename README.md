@@ -12,7 +12,7 @@
 
  * Fun fact **I enjoy building keyboards!**
 
- 🌐 LinkedIn - https://www.linkedin.com/in/nathalie-himaya-252979251/
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=NathalieHimaya&theme=gotham&hide_border=false)
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=NathalieHimaya&theme=gotham&hide_border=false)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NathalieHimaya&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
