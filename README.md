@@ -7,7 +7,6 @@
 
 <p align="center"> <i> Dev Notes: About Me! </i> </p>
 <p align="center">
-    <h2 align="center"> <i> Dev Notes: About Me! </i> </h2>
     • Interests: Robotics, Machine Learning, Engineering, Software Development </br>
     • School: Upcoming University Student studying Computer Engineering <br/>
     • Hobbies: Building keyboards, dancing & trying every skill possible <br/>
