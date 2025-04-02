@@ -8,9 +8,9 @@
 <div>
  <center>
    <p>
-    - test
-    - test
-    - test
+    - test <br/>
+    - test <br/>
+    - test <br/>
    </p>
  </center>
 </div>
