@@ -6,13 +6,11 @@
 <h2 align="center"> ⋘ 𝑙𝑜𝑎𝑑𝑖𝑛𝑔 𝑑𝑎𝑡𝑎... ⋙ ᴄᴏᴍᴘʟᴇᴛᴇ! </h2>
 
 <div>
- <center>
-   <p>
+   <p alight="center">
     - test <br/>
     - test <br/>
     - test <br/>
    </p>
- </center>
 </div>
 
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=NathalieHimaya&theme=gotham&hide_border=false)
