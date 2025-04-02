@@ -2,8 +2,7 @@
  <img src="https://github.com/NathalieHimaya/NathalieHimaya/blob/main/Hannah%20Morales%20(1).png" />
 </h1>
 <h1 align="center"> ˚₊· ͟͟͞͞➳❥ Nathalie's Coding Corner ˚₊· ͟͟͞͞➳❥ </h1>
-<h3 align="center"> ⋘ 𝑙𝑜𝑎𝑑𝑖𝑛𝑔 𝑑𝑎𝑡𝑎... ⋙ ᴄᴏᴍᴘʟᴇᴛᴇ! </h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://cdna.artstation.com/p/assets/images/images/038/243/184/original/julie-lafille-gif-outro.gif"
+<h3 align="center"> ⋘ 𝑙𝑜𝑎𝑑𝑖𝑛𝑔 𝑑𝑎𝑡𝑎... ⋙ ᴄᴏᴍᴘʟᴇᴛᴇ! </h3
 
 <p align = "center" >
  ☁️ I’m currently working on **Web Design to develop my own portfolio**
