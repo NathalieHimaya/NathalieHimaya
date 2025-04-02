@@ -11,7 +11,6 @@
     • School: Upcoming University Student studying Computer Engineering <br/>
     • Hobbies: Building keyboards, dancing & trying every skill possible <br/>
     • Project Status: Currently, learning HTML as a hobby to create cute things! <br/>
-    • Experience: C++, Python, Java </br>
     • Looking for: Collaboration Projects + New people to connect with! </br>
 </p>
 
