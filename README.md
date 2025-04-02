@@ -1,8 +1,8 @@
 <h1 align="center">
  <img src="https://github.com/NathalieHimaya/NathalieHimaya/blob/main/Hannah%20Morales%20(1).png" />
 </h1>
-<h1 align="center">🌸 Hello, I'm Nathalie Himaya</h1>
-<h3 align="center"> I create and build things that help me grow! Check it out!</h3>
+<h1 align="center"> ˚₊· ͟͟͞͞➳❥ Nathalie's Coding Corner ˚₊· ͟͟͞͞➳❥ </h1>
+<h3 align="center"> coding as I please </h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://cdna.artstation.com/p/assets/images/images/038/243/184/original/julie-lafille-gif-outro.gif"
 
  ☁️ I’m currently working on **Web Design to develop my own portfolio**
