@@ -1,6 +1,6 @@
 
 <h1 align="center">
- <img src="https://github.com/NathalieHimaya/NathalieHimaya/blob/main/Hannah%20Morales%20(1).png" />
+ <img src="https://github.com/NathalieHimaya/NathalieHimaya/blob/main/natbanban.png" />
 </h1>
 <h1 align="center"> ˚₊· ͟͟͞͞➳❥ Nat's Coding Corner ˚₊· ͟͟͞͞➳❥ </h1>
 <h2 align="center"> ⋘ 𝑙𝑜𝑎𝑑𝑖𝑛𝑔 𝑑𝑎𝑡𝑎... ⋙ ᴄᴏᴍᴘʟᴇᴛᴇ! </h2>
