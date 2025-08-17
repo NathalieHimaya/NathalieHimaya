@@ -1,6 +1,9 @@
- <img src="https://github.com/NathalieHimaya/NathalieHimaya/blob/main/natbanban1.png" />
+![](PixelBanner.gif)
 
-<h3 align="left"> 💻 My Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h1> 🌸 Hello! ✨･ﾟ*:･ﾟ✧</h1>
 
+𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙞𝙣 𝙡𝙤𝙫𝙚 𝙬𝙞𝙩𝙝 𝙗𝙡𝙚𝙣𝙙𝙞𝙣𝙜 𝙙𝙞𝙜𝙞𝙩𝙖𝙡 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨 𝙬𝙞𝙩𝙝 𝙛𝙪𝙣𝙘𝙩𝙞𝙤𝙣𝙖𝙡𝙞𝙩𝙮 𝙖𝙣𝙙 𝙘𝙧𝙚𝙖𝙩𝙞𝙫𝙞𝙩𝙮 ~
 
+<h3>𝗺𝘆 𝘁𝗼𝗼𝗹𝘀 *ೃ༄</h3>
+<img src="{https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white}" />
+<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}"/>
